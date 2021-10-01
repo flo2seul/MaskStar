@@ -78,8 +78,8 @@ def stop(request):
 import boto3
 from botocore.client import Config
 
-ACCESS_KEY_ID = 'AKIATQU6AIZ5KXL6SG7L' #s3 관련 권한을 가진 IAM계정 정보
-ACCESS_SECRET_KEY = 'W/Gkl3y7nVj14Y4qUqtASlBnSANsh3KKAlOn95a2'
+ACCESS_KEY_ID = '' #s3 관련 권한을 가진 IAM계정 정보
+ACCESS_SECRET_KEY = ''
 BUCKET_NAME = 'maskstar.kr'
 
 s3 = boto3.client('s3')
