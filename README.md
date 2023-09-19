@@ -1,3 +1,4 @@
+![001](https://github.com/flo2seul/MaskStar/assets/74540051/8e2b8071-3412-4e15-9603-7b23754cc012)
 
 ## 회의록
 [회의록](https://docs.google.com/document/d/1rpe6h6arZPnXDNhKevo1th57W6mOq_QvDpW1lADAgg8/edit)
